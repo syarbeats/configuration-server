@@ -10,3 +10,7 @@ spring:
           searchPaths: gateway, blog
           username: syarbeats
           password: ENC(d6ymK3KZlYNqdTpXAz8UPr1CW3MyIHov)
+
+jasypt:
+  encryptor:
+    password: *************
