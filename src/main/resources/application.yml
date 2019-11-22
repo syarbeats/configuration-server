@@ -9,4 +9,4 @@ spring:
           uri: https://github.com/syarbeats/blog-config/
           searchPaths: gateway, blog
           username: syarbeats
-          password: ******
+          password: ENC(d6ymK3KZlYNqdTpXAz8UPr1CW3MyIHov)
