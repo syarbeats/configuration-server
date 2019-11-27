@@ -7,10 +7,10 @@ spring:
         encrypt.enabled: false
         git:
           uri: https://github.com/syarbeats/blog-config/
-          searchPaths: gateway, blog
+          searchPaths: gateway, blog, finance
           username: syarbeats
-          password: ENC(d6ymK3KZlYNqdTpXAz8UPr1CW3MyIHov)
+          password: *********
 
 jasypt:
   encryptor:
-    password: *************
+    password: arkhyterima
