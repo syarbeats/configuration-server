@@ -7,7 +7,7 @@ spring:
         encrypt.enabled: false
         git:
           uri: https://github.com/syarbeats/blog-config/
-          searchPaths: gateway, blog, finance
+          searchPaths: gateway, blog, finance, authentication, approval
           username: syarbeats
           password: *********
 
